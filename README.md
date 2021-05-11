@@ -1,5 +1,4 @@
-# Aprendizado-de-Javascript
----
+# AAprendizado-de-Javascript
 **Sobre**
 Neste repositório estarei postando todo meu aprendizado de Javascript, farei os possiveis de não bagunçar ele para que de certa forma outras pessoas possam se beneficiar do meus estudos...
 
