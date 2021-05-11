@@ -4,9 +4,9 @@ Neste repositório estarei postando todo meu aprendizado de Javascript, farei os
 
 ### Requesitos e Conhecimentos 
 
--[]Logica de programação
--[]Editor de texto
--[]Navegador 
-  -[]Chrome
-  -[]Firefox
-  -[]outros
+-[] Logica de programação
+-[] Editor de texto
+-[] Navegador 
+  -[] Chrome
+  -[] Firefox
+  -[] outros
