@@ -14,9 +14,9 @@ console.log(alunoNumero.length)
 
 //Comaparando valor do array
 
-let valoTeste = 1 //Valor de teste para condição
+let valoTeste = 2 //Valor de teste para condição
 
-if(alunoNumero[1]==Number){
+if(typeof(alunoNumero[1])=='number'){
     if(alunoNumero[1]===valoTeste){
         console.log(`São iguais\n ${alunoNumero[1]} = ${valoTeste}`)
 
