@@ -14,8 +14,17 @@ console.log(alunoNumero.length)
 
 //Comaparando valor do array
 
-if(alunoNumero[1]===Number){
-    console.log("São iguais")
+let valoTeste = 1 //Valor de teste para condição
+
+if(alunoNumero[1]==Number){
+    if(alunoNumero[1]===valoTeste){
+        console.log(`São iguais\n ${alunoNumero[1]} = ${valoTeste}`)
+
+    }else{
+        console.log("É um numero mais não são iguais")
+        console.log(`${alunoNumero[1]} Diferente de ${valoTeste}`) //Template string
+    }
 }else{
-    console.log("São diferentes")
+    console.log("Não é um número")
 }
+
