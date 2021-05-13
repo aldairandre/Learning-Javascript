@@ -4,4 +4,10 @@
 
 let alunoNumero= ['Aldair',1,'Janaina',3,'João',10]
 
-console.log()
+//Acessando Array a partir do indice 
+
+console.log(alunoNumero[0])
+
+//Vendo tamanho do Array
+
+console.log(alunoNumero.length)
