@@ -11,14 +11,14 @@ let pessoa = {
     nome : 'Aldair',
     sobrenome : 'André',
     idade : 21 
-}
+};
 
 //Vendo todas as propriedades de um Objeto
 
-console.log(pessoa)
+console.log(pessoa);
 
 //Para acessar cada proriedade de um objeto basta colocar o nome do objeto um ponto e seguido do nome da propriedade 
 
-console.log('Nome: '+pessoa.nome)
-console.log('Sobrenome: '+pessoa.sobrenome)
-console.log('Idade: '+pessoa.idade)
+console.log('Nome: '+pessoa.nome);
+console.log('Sobrenome: '+pessoa.sobrenome);
+console.log('Idade: '+pessoa.idade);
