@@ -12,3 +12,13 @@ Neste repositório estarei postando todo meu aprendizado de Javascript, farei os
    1. Chrome
    1. Firefox
    1. outros
+-- 
+### Dicas para melhora seu desenho caso use o Visual Studio Code ou VSCOdium
+
+**Instalar estas extensões em seu Vs**
+1. Live Server
+1. Code Runner
+---
+*OBS: 
+	Tem o Node Js instalado no seu Computador, caso não saibas o que é e como instala lo visite o site *
+   [Node Web site](https://www.nodejs.org) e siga todas as instruções para instalar o NodeJs
