@@ -47,3 +47,12 @@ function criaCarro(marca,modelo,cor,numeroPortas){
         }
     }
 }
+
+const tlf1 = criarCelular('Samsung',320,5000)
+
+for (let propriedadeName in tlf1) {
+    console.log(tlf1[propriedadeName]);
+    
+}
+
+//console.log(typeof(criarCelular))
