@@ -18,11 +18,6 @@
     recuperados por índice na iteração dos numeros . Podemos ter o
     mesmo comportamento ao usar o map :
 <p>
-
-```
-    $ node map2.js
-```
-
 <p>
     O map executa a função de callback recebida por parâmetro
     para cada elemento iterado de numeros e constrói um novo
@@ -39,29 +34,6 @@
     nós poderíamos fazer:
 </p>
 
-<p>
-    A função de callback recebe como parâmetro cada um dos
-    alunos da lista em cada iteração — assim como aconteceu nas outras
-    funções auxiliares que vimos — e o atribui na variável aluno .</br>
-    Dentro da função, utilizamos um critério de avaliação para devolver
-    um valor booleano para o filter : true ou false . Se for
-    16
-    Rretornado verdadeiro, o valor é inserido no novo Array retornado;
-    caso contrário, é simplesmente ignorado e não é incluído.
-<p>
-
-## FIND
-
-<p>
-    Esta função auxiliar é particularmente interessante quando o
-    objetivo é encontrar um item específico dentro de um Array.</br>
-    Digamos, por exemplo, que de uma lista de alunos queremos
-    somente o registro que contenha o nome “Aldair”. O que faríamos
-    tradicionalmente é algo nesse sentido:
-</p>
-
 ```
-$ node map4.js
+    $ node map2.js
 ```
-
-### Usando metodo find
