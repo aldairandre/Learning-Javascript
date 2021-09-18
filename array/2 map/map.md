@@ -24,14 +24,6 @@
     Array com base nos retornos de cada uma das chamadas. </br>Como o
     map nos devolve uma outra instância de Array , a lista original
     nunca é realmente modificada, o que mantém sua integridade.</br>
-    E assim como no vimos no forEach , a função de callback
-    não passa por elementos que foram modificados, alterados ou
-    removidos depois da primeira execução da função de retorno.</br>
-    Como o próprio nome já pode induzir, este método é deve ser
-    utilizado quando temos a necessidade de filtrar nossa lista de acordo
-    com algum critério. Por exemplo, imagine que queremos filtrar de
-    uma lista de alunos, todos os que são maiores de idade.</br>Com o ES5,
-    nós poderíamos fazer:
 </p>
 
 ```
