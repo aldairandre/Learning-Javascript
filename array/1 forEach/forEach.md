@@ -21,7 +21,7 @@ var nomes = ['maria', 'josé', 'joão'];
 </p>
 
 ```
-$ node forEach.js
+$ node forEach1.js
 ```
 
 <p>
