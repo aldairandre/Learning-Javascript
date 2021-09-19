@@ -11,16 +11,18 @@
     de idade. Primeiro, fazemos da forma convencional:
 <p>
 
+```
+$ node every1.js
+```
+
 <p>
     Iteramos toda a lista procurando por alunos menores de idade. </br>
     Ao achar um, já encerramos a iteração e retornamos false . </br>
     Agora, observe como podemos simplificar essa lógica usando o every :
 <p>
 
-## Usando Find
-
 ```
-$ node every2.js
+$ node every1.js
 ```
 
 <p>

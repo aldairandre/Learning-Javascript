@@ -12,5 +12,5 @@ for(let i = 0; i < alunos.length; i++){
         break
     }
 }
-
+        
 console.log(todosAlunosDeMaior); //true
