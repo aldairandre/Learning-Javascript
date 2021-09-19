@@ -22,7 +22,7 @@ $ node every1.js
 <p>
 
 ```
-$ node every1.js
+$ node every2.js
 ```
 
 <p>
