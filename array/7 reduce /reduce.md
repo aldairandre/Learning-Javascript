@@ -27,19 +27,8 @@ $ node reduce1.js
 $ node reduce2.js
 ```
 
-
 <p>
     Diferentmente dos outros métodos vistos até agora, o reduce aceita dois parâmetros
 </p>
 
 ![aaa](aa.png)
-
-
-
-
-<p>
-    
-
-
-    
-</p>
