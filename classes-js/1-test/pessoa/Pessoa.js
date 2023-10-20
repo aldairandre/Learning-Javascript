@@ -18,7 +18,7 @@
  * Herancas e Extands
  */
 
-class Pessoa {
+export default class Pessoa {
     constructor(nome) {
         this._nome = this._captalize(nome) /*O _ é uma convensão* */
     }
@@ -39,30 +39,3 @@ class Pessoa {
         return `${this._nome} esta andando.`
     }
 }
-
-class Developer extends Pessoa {
-    constructor(nome,codeLanugage){
-        super(nome)
-        this._codeLanugage = codeLanugage
-    }
-
-    get codeLanugage() {
-        return this._codeLanugage
-    }
-    code() {
-        return `${this.nome}  esta codando em ${this.codeLanugage}`
-    }
-}
-
-/* let pessoa = new Pessoa('aldair')
-pessoa.nome = 'joao'
-console.log(`Objecto ${pessoa.nome} criado`);
-console.log(pessoa.walk())
-console.log('===========================================\n'); */
-
-let developer = new Developer('Aldair','Javascript ')
-console.log(developer.code());
-
-let lucas = new Developer('Lucas','CSS')
-
-console.log(lucas.code());
